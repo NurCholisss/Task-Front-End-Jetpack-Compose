@@ -1,0 +1,17 @@
+<resources>
+    <!-- Nama aplikasi -->
+    <string name="app_name">Tugas FrontEnd Jetpack Compose</string>
+
+    <!-- Menu navigation items -->
+    <string name="menu_home">Beranda</string>
+    <string name="menu_detail">Detail Tanaman</string>
+    <string name="menu_about">Tentang</string>
+    <string name="menu_gallery">Galeri</string>
+    <string name="menu_course">Kursus</string>
+    <string name="menu_share">Bagikan</string>
+
+    <!-- Titles or screen descriptions -->
+    <string name="home_screen_title">Selamat Datang di Beranda</string>
+    <string name="detail_screen_title">Informasi Detail Tanaman</string>
+    <string name="about_screen_title">Tentang Aplikasi</string>
+</resources>
